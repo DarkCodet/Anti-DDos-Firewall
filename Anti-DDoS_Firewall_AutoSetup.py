@@ -1,10 +1,10 @@
 #!/usr/bin/python
 
-#   charge./switch's Anti DDoS Firewall AutoSetup
+#   darkcoder's Anti DDoS Firewall AutoSetup
 #   for the kiddos
-#   contact: charge.#6660
-#   website: theswitcharchive.com
-#   IG: @switchnets
+#   contact: ✞D4RKCØD3R✞#2702
+#   website: blackhosting.net
+#   IG: @darkcoder.rpg
 
 
 #import some hacks
@@ -14,7 +14,7 @@ os.system('clear') # clear the screen :hahayes:
 
 menu = raw_input("""
 
-	Welcome to charge./switch's Anti-DDoS Firewall AutoSetup
+	Welcome to darkcoder's Anti-DDoS Firewall AutoSetup
 
 	Press enter to begin setup: """)
 
